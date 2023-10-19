@@ -1,8 +1,6 @@
 # React Weather
 A simple weather app built with React Native
 
-# Inspiration
-I wanted to learn how to make apps using React Native. Instead of inventing an app, I wanted to try and see how hard would it be to implement one of my favourite weather apps: [Pocket Weather Australia](https://itunes.apple.com/au/app/pocket-weather-australia/id546266910?mt=8). Full credits for user experience goes to them.
 
 The app architecture/structure is mostly based on ideas I've seen in the Facebook's F8 app. You can read more about it on their web site: http://makeitopen.com/.  
 
